@@ -9,8 +9,7 @@ Generate professional AI prompts for creating engaging social media content acro
 
 ## 📸 Application Preview
 
-![Application Preview](preview.png)
-
+![Application Preview](dashboard.png)
 ---
 
 ## ✨ Features
