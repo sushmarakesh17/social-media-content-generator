@@ -7,10 +7,6 @@ Generate professional AI prompts for creating engaging social media content acro
 🔗 **Streamlit Application:**
 https://your-streamlit-app-url.streamlit.app/
 
-> Replace the above URL with your deployed Streamlit Cloud application link.
-
----
-
 ## 📸 Application Preview
 
 ![Application Preview](preview.png)
