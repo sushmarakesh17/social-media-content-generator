@@ -1,2 +1,86 @@
-# social-media-content-generator
-A Streamlit-based Prompt Engineering application that generates professional prompts for Instagram, LinkedIn, Twitter/X, Facebook, and YouTube content creation.
+# 📱 Social Media Content Generator using Prompt Engineering
+
+Generate professional AI prompts for creating engaging social media content across multiple platforms using Prompt Engineering and Streamlit.
+
+## 🚀 Live Demo
+
+🔗 **Streamlit Application:**
+https://your-streamlit-app-url.streamlit.app/
+
+> Replace the above URL with your deployed Streamlit Cloud application link.
+
+---
+
+## 📸 Application Preview
+
+![Application Preview](preview.png)
+
+---
+
+## ✨ Features
+
+* Generate AI prompts for multiple social media platforms
+* Instagram Caption Generator
+* LinkedIn Post Generator
+* Twitter/X Post Generator
+* Facebook Post Generator
+* YouTube Description Generator
+* Multiple writing tones
+* Download generated prompts as a text file
+* Simple and user-friendly Streamlit interface
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Streamlit
+* Prompt Engineering
+
+---
+
+## 📂 Repository Structure
+
+```
+Social Media Content Generator/
+│
+├── app.py
+├── prompts.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── preview.png
+```
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/your-username/social-media-content-generator.git
+
+cd social-media-content-generator
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+
+---
+
+## 📌 Future Enhancements
+
+* OpenAI API Integration
+* Gemini API Integration
+* Copy to Clipboard
+* Export to PDF
+* Content History
+* Multi-language Support
+
+---
+
+## 👩‍💻 Author
+
+**Sushma Rakesh**
+
+GitHub: https://github.com/your-username
